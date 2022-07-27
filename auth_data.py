@@ -1,4 +1,4 @@
-token = '5303584939:AAGgOd6nRlxOYZyhciNAg2JsCO8eLxs3uMg'
+token = 'your token'
 
 def Cipher(step, text):
     rus_lower_alphabet = "абвгдеёжзийклмнопрстуфхцчшщъыьэюя"
